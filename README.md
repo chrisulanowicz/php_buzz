@@ -44,7 +44,7 @@ PHP app using Silex and MySQL
 
 ## Use
 * Fork code
-* Run Composer update to install dependencies (`composer update` in terminal at root directory)
+* Run Composer update to install dependencies (`composer update` in terminal at the project's root directory)
 * Create a MySQL database schema named 'php_buzz_db'
 * Run an Apache server for the PHP app and a MySQL server for the database (e.g. with MAMP)
 * Navigate to localhost:8888/web (or whatever port the Apache server is running on) in your browser
