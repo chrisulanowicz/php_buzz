@@ -30,7 +30,7 @@ PHP app using Silex and MySQL
 ### Technical Points of Interest  
 
 * Database with two tables: User and Tweet
-* * User table can be expanded for a full log-in & registration
+   * User table can be expanded for a full log-in & registration
 * Tweet controller handles adding users and tweets, and deleting tweets
 
 ## Desirable Features / Improvements
